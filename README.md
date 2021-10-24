@@ -93,7 +93,7 @@ sudo apt install php libapache2-mod-php -y
 ```
 cd /var/www/html
 sudo rm index.html
-sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/pi/main/servers/page/php/replicator.txt
+sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/freenet/main/php/replicator.txt
 cd ..
 sudo chmod -R 0777 *
 cd html
