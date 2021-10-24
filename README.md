@@ -1,6 +1,6 @@
 ## [home](scrolls/home)
 
-#  Free Net
+#  [Free Net](https://github.com/LafeLabs/freenet/)
 
  - *get free stuff*
  - *give away free stuff**
@@ -10,14 +10,21 @@
  - *hear a story*
  - *replicate and share the system*
 
-
 To replicate, buy a domain name, get a hosting account, and set up a raspberry pi web server to edit the code on.  Get an email address at your domain operator@[domain].  
 
 Forward email address to a personal operator address or set up mail client.
 
 Scrolls are just [markdown documents](scrolls/markdown).
 
-Copy the replicator at [php/replicator.txt](php/replicator.txt) into the main directory on the remote server as replicator.php.  Point a browser to [your domain]/replicator.php.  Then follow the instructions below to replicate the system onto a Raspberry pi.  Use port forwarding to connect your home ip address via port 80 to the pi web server.  Use the scroll set replicator to copy the scroll set from the home pi to the remote server.  Set up a second pi as a solar powered terminal which can be used out in public to edit the contents of the home pi which then replicates to the public page.  Make a sign for the public domain with rainbow colored felt letters in block letters on a black cotton flannel cloth flag and display it to get people to go to the page and either help someone or get some free stuff or read a story.  Existing operator will teach you how to do all this.
+Copy the replicator at [php/replicator.txt](php/replicator.txt) into the main directory on the remote server as replicator.php.  Point a browser to [your domain]/replicator.php.  Then follow the instructions below to replicate the system onto a Raspberry pi.  Use port forwarding to connect your home ip address via port 80 to the pi web server.  Use the scroll set replicator to copy the scroll set from the home pi to the remote server.  
+
+Set up a second pi as a solar powered terminal which can be used out in public to edit the contents of the home pi which then replicates to the public page.  Make a sign for the public domain with rainbow colored felt letters in block letters on a black cotton flannel cloth flag and display it to get people to go to the page and either help someone or get some free stuff or read a story.  
+
+Always replicate all information as many times as possible to protect. 
+
+There are no users. There are only swarms of self-replicating documents used by everyone to share things.
+
+Existing operator will teach you how to do all this.
 
 ## Links
 
