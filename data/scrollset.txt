@@ -1,7 +1,10 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/freenet/",
     "scrolls": [
+        "freestuff",
         "home",
-        "replication"
+        "markdown",
+        "needs",
+        "stories"
     ]
 }

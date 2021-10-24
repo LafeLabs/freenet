@@ -36,8 +36,11 @@
         "user.txt"
     ],
     "scrolls": [
+        "freestuff",
         "home",
-        "replication"
+        "markdown",
+        "needs",
+        "stories"
     ],
     "iconsymbols": [
         "chaos.svg",

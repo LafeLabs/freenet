@@ -1,0 +1,41 @@
+# [home](scrolls/home)
+
+# Markdown example document showing the syntax
+
+click the edit link to edit this document and see how markdown works:
+
+[![](iconsymbols/edit.svg)](scrolleditor.php)
+
+Then click the home icon to get back to seeing the scroll displayed in html mode.
+
+# big heading
+
+## smaller heading
+
+### smaller heading
+
+text with *emphasis* 
+
+- list
+- of items
+- without numbers
+
+1. numbered list
+2. with numbered items
+3. which keep getting numbered
+
+global link:
+
+[trash robot web site](http://trashrobot.org/)
+
+local link to a scroll:
+
+[box scroll](scrolls/box.md)
+
+Image:
+
+![](iconsymbols/home.svg)
+
+Image in a link:
+
+[![](iconsymbols/home.svg)](index.html)
