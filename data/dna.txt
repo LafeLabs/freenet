@@ -37,9 +37,9 @@
     ],
     "scrolls": [
         "freestuff",
+        "help",
         "home",
         "markdown",
-        "needs",
         "stories"
     ],
     "iconsymbols": [
