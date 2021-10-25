@@ -47,9 +47,11 @@
         "delete.svg",
         "edit.svg",
         "fork.svg",
+        "hidemenu.svg",
         "home.svg",
         "lightdark.svg",
         "scroll.svg",
+        "showmenu.svg",
         "uplink.svg",
         "www.svg"
     ]

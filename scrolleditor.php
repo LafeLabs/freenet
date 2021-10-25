@@ -32,6 +32,8 @@
     </a>
     <img id = "modebutton" class = "button" src= "iconsymbols/lightdark.svg"/>
 
+    <img id = "menubutton" class = "button" src= "iconsymbols/hidemenu.svg"/>
+    
 <div id = "feedscroll">
     <table>
         <tr>
@@ -346,6 +348,18 @@ function modeswitch(){
     }
 }
 
+hidemenu = false;
+document.getElementById("menubutton").onclick = function(){
+    hidemenu = !hidemenu;
+    if(hidemenu){
+        document.getElementById("feedscroll").style.display = "none";
+        document.getElementById("menubutton").src = "iconsymbols/showmenu.svg";
+    }
+    else{
+        document.getElementById("feedscroll").style.display = "block";
+        document.getElementById("menubutton").src = "iconsymbols/hidemenu.svg";
+    }
+}
 
 </script>
 <style>
@@ -400,7 +414,9 @@ body{
         right:0px;
         top:50px;
     }
-
+    #menubutton{
+        display:none;
+    }
 
 }
 
