@@ -38,10 +38,11 @@ Existing operator will teach you how to do all this.
  - [readme.html](readme.html)
  - [editor.php](editor.php)
  - [dnagenerator.php](dnagenerator.php)
- - [global page replicator code link](https://raw.githubusercontent.com/LafeLabs/pi/main/servers/scrollserver/php/replicator.txt)
+ - [global page replicator code link](https://raw.githubusercontent.com/LafeLabs/freenet/main/php/replicator.txt)
  - [local replicator code link](php/replicator.txt)
  - [scroll set replicator](scrollset.html)
  - [set replicator](set.html)
+ - [copy code server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/codeserver/main/php/replicator.txt&to=replicator.php)
  - [replicator.php](replicator.php)
 
 # Basic Kit
