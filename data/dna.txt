@@ -40,7 +40,9 @@
         "help",
         "home",
         "markdown",
-        "stories"
+        "pi",
+        "stories",
+        "web"
     ],
     "iconsymbols": [
         "chaos.svg",
